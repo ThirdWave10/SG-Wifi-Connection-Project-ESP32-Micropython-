@@ -65,11 +65,9 @@ It supports two modes:
 
 ---
 
-## Contact And Author
-
-For questions, contact:  
+## Author
+ 
 **Luke Reilly** (Student Developer, Age 14)
-Email: l.j.reilly1010@gmail.com
 
 ---
 
