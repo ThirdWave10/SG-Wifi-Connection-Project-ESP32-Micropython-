@@ -1,7 +1,7 @@
-# Snake Industries Global
+# Snake Industries Global (NOT A REAL COMPANY)
 # ESP32 Wi-Fi initialisation module
 #
-# copyright infringement enforced with death by 10_000 paper cuts.
+# copyright infringement enforced with death by 10_000 paper cuts. Joke :)
 
 import os
 import json
