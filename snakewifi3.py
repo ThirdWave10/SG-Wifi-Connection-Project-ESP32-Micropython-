@@ -72,7 +72,7 @@ def getHWUID():
 def startWAP():
     ''' Initalise network WiFi interface and setup to operate in Access Point mode'''
     global wap
-    ip = '###########'
+    ip = '###########' # Rplace with your IP and so on for the following variables
     mask = '#########'
     gw = '##########'
     dns = '######'
@@ -142,7 +142,7 @@ def webgenssidlist():
 
 def wifi_settings_save(ssid, ssidpw):
    
-    settings_path = "settings.json"     # I suggest you put this at the top of your code but it doesnt matter too much
+    settings_path = "settings.json"    
     network_info = {"SSID" : ssid, "SSIDPW" : ssidpw}  # Make the ssid and ssidpw the users input
    
     with open (settings_path, "w") as file:
